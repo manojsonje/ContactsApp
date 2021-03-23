@@ -25,8 +25,7 @@ Production Environment :-  java 8 should be installed before running executable 
 Development Environment :- The project is created with Maven, so you just need to import it to your IDE and build the project to resolve the dependencies
 
 ## Database configuration 
-Create a MySQL database with the name `springbootdb` and add the credentials to `/resources/application.properties`.  
-The default ones are :
+No need to configure any db as we are using h2 in-memory db.
 
 
 ## Usage 
